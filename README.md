@@ -10,7 +10,7 @@
 ```
 ### Step 2 (Open a new terminal)
 ```
-npm install
+npm i
 ```
 
 ### Compiles and hot-reloads for development
