@@ -1,4 +1,4 @@
-# G2-Intership 
+# G2-Intership -Nuxtjs v2
 
 ## Project setup
 
@@ -15,7 +15,7 @@ npm install
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve . This will run on "https://localhost:3000" by default
+npm run dev . This will run on "https://localhost:3000" by default
 ```
 
 ### Compiles and minifies for production
